@@ -1,4 +1,4 @@
-package com.yuanhui.tutorial.proxy.dynamicdemo.cglib;
+package com.yuanhui.tutorial.proxy.dynamic.cglib;
 
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;

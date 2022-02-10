@@ -1,4 +1,4 @@
-package com.yuanhui.tutorial.proxy.dynamicdemo.jdk;
+package com.yuanhui.tutorial.proxy.dynamic.jdk;
 
 import java.lang.reflect.Proxy;
 

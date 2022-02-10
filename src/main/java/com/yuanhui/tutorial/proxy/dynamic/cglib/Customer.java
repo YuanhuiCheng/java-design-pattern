@@ -1,4 +1,4 @@
-package com.yuanhui.tutorial.proxy.dynamicdemo.cglib;
+package com.yuanhui.tutorial.proxy.dynamic.cglib;
 
 public class Customer {
     public String order(String foodName) {

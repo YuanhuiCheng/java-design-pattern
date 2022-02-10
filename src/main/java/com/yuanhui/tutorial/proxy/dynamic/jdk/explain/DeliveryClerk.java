@@ -1,6 +1,6 @@
-package com.yuanhui.tutorial.proxy.dynamicdemo.jdk.explain;
+package com.yuanhui.tutorial.proxy.dynamic.jdk.explain;
 
-import com.yuanhui.tutorial.proxy.dynamicdemo.jdk.OrderInterface;
+import com.yuanhui.tutorial.proxy.dynamic.jdk.OrderInterface;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

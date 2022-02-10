@@ -1,6 +1,6 @@
-package com.yuanhui.tutorial.proxy.dynamicdemo.cglib.explain;
+package com.yuanhui.tutorial.proxy.dynamic.cglib.explain;
 
-import com.yuanhui.tutorial.proxy.dynamicdemo.cglib.Customer;
+import com.yuanhui.tutorial.proxy.dynamic.cglib.Customer;
 import net.sf.cglib.proxy.MethodInterceptor;
 
 import java.lang.reflect.Method;

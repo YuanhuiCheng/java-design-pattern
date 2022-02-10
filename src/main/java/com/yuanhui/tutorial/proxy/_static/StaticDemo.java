@@ -1,4 +1,4 @@
-package com.yuanhui.tutorial.proxy.staticdemo;
+package com.yuanhui.tutorial.proxy._static;
 
 public class StaticDemo {
     public static void main(String[] args) {
