@@ -47,3 +47,5 @@
 - 接口隔离原则：要为各个类建立它们需要的专用接口。
 - 迪米特原则：只与你的直接朋友交谈，不和“陌生人”说话。
 - 合成复用原则：尽量先使用组合或者聚合等关联关系来实现，其次才考虑使用继承关系来实现。
+
+**除了狂神的讲解视频之外，也推荐黑马程序员的视频讲解，具体内容见本repo另一md文件：[bh-java-design-pattern.md](https://github.com/YuanhuiCheng/java-design-pattern/blob/master/bh-java-design-pattern.md)** 。
